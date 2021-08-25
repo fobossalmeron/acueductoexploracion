@@ -1,5 +1,5 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/(.*)",
       "destination": "https://meetings.hubspot.com/hola250"
